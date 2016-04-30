@@ -1,6 +1,6 @@
-# _Restaurants_
+# Restaurants
 
-#### _A basic restaurant website_
+_One to many relationship practice; a basic restaurants website; 02.24.16_
 
 ### By _**Marika Allely and Torrence Stratton**_
 
@@ -8,9 +8,9 @@
 
 #### This app was built as an exercise for Epicodus and is not meant to be replicated.  I'm keeping it here for my own records, and for nostalgia's sake.  Feel free to play with it, but be aware that it is not a complete project.
 
-_This web app is designed to allow users to create shoe stores and shoe brands. The app was built using the micro-framework Silex, PHP, Twig, and Bootstrap._
+_This web app is designed to allow users to create restaurants and cuisines. The app was built using the micro-framework Silex, PHP, Twig, and Bootstrap._
 
-_The goal of this code review is to show basic understanding and competency with many to many relationships in SQL, PHP, and the Silex micro-framework._
+_The goal of this code review is to show basic understanding and competency with one to many relationships in SQL, PHP, and the Silex micro-framework._
 
 
 ## Setup/Installation Requirements
